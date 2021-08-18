@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there.  Welcome to my Github! 😄 👋
+
+<img width="998" alt="Screen Shot 2021-08-18 at 11 37 26 AM" src="https://user-images.githubusercontent.com/12941691/129928147-37d3be03-e16f-4f32-adca-6160bcb9fe0e.png">
+
+Check out my website at www.sitarobinson.com
 
 <!--
 **pinkdragon1000/pinkdragon1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
