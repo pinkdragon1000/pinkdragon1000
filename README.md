@@ -32,9 +32,12 @@ Frontend developer with experience building responsive web applications using Re
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=pinkdragon1000&layout=compact&theme=tokyonight&title_color=e2a2c4&icon_color=e2a2c4&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
+
+<img src="https://github-stats-extended.vercel.app/api/?username=pinkdragon1000&show_icons=true&theme=jolly&rank_icon=github&include_all_commits=true&custom_title=pinkdragon1000%27s+Stats&disable_animations=true&number_format=long"></img>
+
+
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pinkdragon1000&layout=compact&theme=tokyonight&title_color=e2a2c4&icon_color=e2a2c4&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+
 
 ### 📈 Contribution Graph
 
@@ -42,5 +45,3 @@ Frontend developer with experience building responsive web applications using Re
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pinkdragon1000&bg_color=00000000&color=e2a2c4&line=e2a2c4&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
----
-<p align="center"><i>⭐️ From <a href="https://github.com/pinkdragon1000">pinkdragon1000</a></i></p>
